@@ -1,3 +1,5 @@
+## NOTE: This profile has been incorporated into a newer version covering PostgreSQL 10-13 located at: https://github.com/mitre/crunchy-data-postgresql-stig-baseline 
+
 # InSpec Profile
 An InSpec Compliance Profile
 ---
